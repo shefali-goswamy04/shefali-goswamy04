@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shefali-goswamy04" alt="shefali-goswamy04" /></a> </p>
 
-- 🔭 I’m currently working on **Currently working in Billing and Finance Domain**
+- 🔭 I’m currently working as **Java and Microservices Backend Developer in Billing and Finance Domain**
 
-- 🌱 I’m currently learning **more and more of microservices and problem solving**
+- 🌱 I’m currently learning **more and more of microservices and devops methodologies**
 
 - 👯 I’m looking to collaborate on **more into microservices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shefali-goswamy04?tab=repositories](https://github.com/shefali-goswamy04?tab=repositories)
 
 - 💬 Ask me about **Java 8 ,Spring Boot ,SQL**
 
@@ -19,7 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shefali-goswamy-b70705127/](https://www.linkedin.com/in/shefali-goswamy-b70705127/)
 
-- ⚡ Fun fact **good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
