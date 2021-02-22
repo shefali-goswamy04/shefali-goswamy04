@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **more and more of microservices and devops methodologies**
 
-- 👯 I’m looking to collaborate on **more into microservices**
+- 👯 I’m looking to collaborate on  **AWS and more into cloud**
 
 - 💬 Ask me about **Java 8 ,Spring Boot ,SQL**
 
