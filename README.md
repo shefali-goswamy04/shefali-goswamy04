@@ -56,13 +56,16 @@
                 <div class="timeline-body">
                   <p>Currently working in Billing and Finance Team for G2(USA and Canada).</p>
                   <ul>
-				  <li>Designed and developed the billing, accounting and payment for Drivers/Subhaulers for Copart.
+				  <li>Designed and developed the billing, accounting and payment for Drivers/Subhaulers In Copart.
 				  </li>
 				  <li>Starting from creating a bill to posting the bill to ledgers for accounting purposes till paying the driver through his prefered payment method(check or bank transfer)</li>
 				  <li>Implemented the event driven architecture for the billig and finance domain,where every trigger from the UI is going to be an event to the system having its own financial implication.</li>
 				  <li>Designed and implemented the accounting system for Finance domain where each bill and payments will be posted to their ledgers.</li>
                     <li>Worked on 11+ microservices for diverse functionalities and developed common components for logging, API documentation, and cloud based configuration.</li>
 					<li>Have worked on Apache kafka,Apache Solr,Redis and WSO2 ESB</li>
+					<li>Have worked and implemented different Spring modules like Spring Boot, Spring Batch, Spring Streams, Spring Data JPA 
+                        Spring Cucumber, Spring Core, Spring OAuth.
+                     </li>
                   </ul>
                 </div>
               </div>
@@ -75,19 +78,71 @@
                   <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>March 2019 - Present at Copart India Technology Center</small></p>
                 </div>
                 <div class="timeline-body">
-                  <p>Currently working in Billing and Finance Team for G1(Germany and Spain).</p>
+                  <p>Worked on Bank Reconciliation for Billing and Finance Team for G1(Germany and Spain) </p>
                   <ul>
-                    <li>Responsiblities are ranging from building scalable applications which involves in billing and payment systems for different requirements and entities, handling all finance related back office tasks through Java based Microservices.</li>
-                    <li>Implementation and maintainence in 18+ microservices for diverse functionalities and developed common components for logging, API documentation, and cloud based configuration.</li>
-                    <li>Performing POCs on alternative solutions on Apache Camel(orchestration and integration on flows and reversal-flows), 
-                        gRPC protocal which enhanced in improving client-server logic from 1500ms to 700ms for a single/invoice generation.</li>
+                    <li>Developed and implemented various bank file readers like SEPA/MT940 that reads the bank statements and reconciles them with payments recorded in Copart system.</li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+			<li>
+              <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4 class="timeline-title">TCS - Source of Wealth MicroApp</h4>
+                  <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>December 2016-Feburary 2019</small></p>
+                </div>
+                <div class="timeline-body">
+                  <p>An application that is used to collect sources of wealth for a customer whenever he or she opens a bank account in CITI bank </p>
+                  <ul>
+                    <li>DWorked as backend code in REST API, Spring BOOT and MongoDB and frontend for SOW Forms using Angular 5</li>
                   </ul>
                 </div>
               </div>
             </li>
           </ul> 
         </ul></div>
-       
+       <div class="container container-fluid main-content">
+	   <div class="page-header">
+            <h3 id="timeline">Skills</h3>
+          </div>
+	   <table>
+    <tbody>
+        <tr>
+            <td>Languages</td>
+            <td>Java 8, JavaScript</td>
+        </tr>
+		<tr>
+            <td>Framework</td>
+            <td>Micro services , REST API, Hibernate, JDBC</td>
+        </tr>
+		<tr>
+            <td>Spring Modules</td>
+            <td>Spring Boot, Spring Batch, Spring Streams, Spring Data JPA 
+                Spring Cucumber, Spring Core, Spring OAuth
+</td>
+        </tr>
+		<tr>
+            <td>Data base </td>
+            <td>MySQL</td>
+        </tr>
+		<tr>
+            <td>DevOps Tech</td>
+            <td>Jenkins, Docker, Kubernetes, Instana</td>
+        </tr>
+		<tr>
+            <td>IDE</td>
+            <td>Eclipse, Spring Suit Tool, Visual Studio Code</td>
+        </tr>
+		<tr>
+            <td>Tools</td>
+            <td>WSO2 ESB , GIT ,Apache Kafka, Redis ,Rabbit MQ,
+Apache Solr, Putty, Sumo logic
+</td>
+        </tr>
+    </tbody>
+</table>
+	   </div>
       
       <div class="container container-fluid">
         <div class="page-header">
